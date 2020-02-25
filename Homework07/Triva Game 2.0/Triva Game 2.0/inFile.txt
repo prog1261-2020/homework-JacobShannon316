@@ -73,8 +73,7 @@ Connie, the distant cousin
 3
 what is the best type of loop
 for
-forEach
 While
 do while
 goto
-5
+4
